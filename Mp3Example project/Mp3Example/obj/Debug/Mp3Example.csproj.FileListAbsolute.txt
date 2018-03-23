@@ -1,0 +1,10 @@
+C:\Users\lhd\Documents\JASS\Mp3Example\Mp3Example\Mp3Example\bin\Debug\Mp3Example.exe.config
+C:\Users\lhd\Documents\JASS\Mp3Example\Mp3Example\Mp3Example\bin\Debug\Mp3Example.exe
+C:\Users\lhd\Documents\JASS\Mp3Example\Mp3Example\Mp3Example\bin\Debug\Mp3Example.pdb
+C:\Users\lhd\Documents\JASS\Mp3Example\Mp3Example\Mp3Example\obj\Debug\Mp3Example.csprojResolveAssemblyReference.cache
+C:\Users\lhd\Documents\JASS\Mp3Example\Mp3Example\Mp3Example\obj\Debug\Mp3Example.Form1.resources
+C:\Users\lhd\Documents\JASS\Mp3Example\Mp3Example\Mp3Example\obj\Debug\Mp3Example.Properties.Resources.resources
+C:\Users\lhd\Documents\JASS\Mp3Example\Mp3Example\Mp3Example\obj\Debug\Mp3Example.csproj.GenerateResource.Cache
+C:\Users\lhd\Documents\JASS\Mp3Example\Mp3Example\Mp3Example\obj\Debug\Mp3Example.csproj.CoreCompileInputs.cache
+C:\Users\lhd\Documents\JASS\Mp3Example\Mp3Example\Mp3Example\obj\Debug\Mp3Example.exe
+C:\Users\lhd\Documents\JASS\Mp3Example\Mp3Example\Mp3Example\obj\Debug\Mp3Example.pdb
